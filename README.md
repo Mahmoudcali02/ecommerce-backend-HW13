@@ -1,7 +1,31 @@
 # ecommerce-backend-HW13
-# Description
-As a Developer I was tasked to build the back end for an e-commerce site by modifying a starter code. I will take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
-# Note:
-This app is not fully developed and it is still under construction.
-It will be ready in a few days as I am still working on it.
+## Description
+
+```md
+My task is to build the back end for an e-commerce site by modifying starter code. I’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+```
+## How to use:
+If you would like to use this application clone this repo and down below are the steps to follow after you clone it 
+
+* Run `npm init -y` to set up package.json, 
+
+* Install dependencies: sql2, express, sequalize and dotenv
+
+* Connect to mysql database (db folder)
+
+* Run `node seeds/index.js` to seed the data properly, then `node server.js` to create connection.
+
+# Links 
+ Repo Link:
+ Demo Video Link: 
+
+# Screenshots
+ 
+ ![get request](assets/get.JPG)
+
+  ![tags get request](assets/get-tags.JPG)
+
+   ![post request](assets/post.JPG)
+
+ ![products get request](assets/get-products.JPG)
