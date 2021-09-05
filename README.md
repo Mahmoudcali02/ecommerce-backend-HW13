@@ -1,4 +1,5 @@
 # ecommerce-backend-HW13
+# Description
 As a Developer I was tasked to build the back end for an e-commerce site by modifying a starter code. I will take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 # Note:
