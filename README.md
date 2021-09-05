@@ -16,8 +16,8 @@ If you would like to use this application clone this repo and down below are the
 * Run `node seeds/index.js` to seed the data properly, then `node server.js` to create connection.
 
 # Links 
- Repo Link:
- Demo Video Link: 
+ Repo Link: https://github.com/Mahmoudcali02/ecommerce-backend-HW13
+ Demo Video Link: https://drive.google.com/file/d/1XsefJRKRF3JIEdtK-2C9tJiSOEKSnETj/view?usp=sharing
 
 # Screenshots
  
