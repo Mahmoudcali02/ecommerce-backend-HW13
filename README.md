@@ -4,8 +4,3 @@ As a Developer I was tasked to build the back end for an e-commerce site by modi
 # Note:
 This app is not fully developed and it is still under construction.
 It will be ready in a few days as I am still working on it.
-
-# Links
-Repp Link: 
-
-Deployed Link: 
