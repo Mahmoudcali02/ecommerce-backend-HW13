@@ -2,9 +2,8 @@
 
 ## Description
 
-```
 My task is to build the back end for an e-commerce site by modifying starter code. I’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
-```
+
 ## How to use:
 If you would like to use this application clone this repo and down below are the steps to follow after you clone it 
 
